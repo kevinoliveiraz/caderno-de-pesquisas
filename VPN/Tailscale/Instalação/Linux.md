@@ -22,16 +22,17 @@ Iniciar o serviço
 
 Após a instalação, inicie o serviço e configure-o para iniciar automaticamente junto com o sistema.
 
+```
 sudo systemctl enable --now tailscaled
-
+```
 ---
 
 Autenticar o dispositivo
 
 Conecte o computador à sua conta Tailscale.
-
+```
 sudo tailscale up
-
+```
 Será exibido um link no terminal.
 
 1. Abra o link no navegador.
@@ -45,37 +46,40 @@ Após a autenticação, o computador fará parte da sua rede privada.
 Verificar a conexão
 
 Obter o endereço IP do Tailscale:
-
+```
 tailscale ip -4
-
+```
 Listar todos os dispositivos da rede:
-
+```
 tailscale status
-
+```
 Ver informações detalhadas da conexão:
-
+```
 tailscale ip
-
+```
 ---
 
 Comandos úteis
 
 Desconectar da rede:
 
+```
 sudo tailscale down
+```
 
 Reconectar:
 
+```
 sudo tailscale up
-
+```
 Verificar o status do serviço:
-
+```
 sudo systemctl status tailscaled
-
+```
 Visualizar os logs do serviço:
-
+```
 journalctl -u tailscaled
-
+```
 ---
 
 Resultado esperado
