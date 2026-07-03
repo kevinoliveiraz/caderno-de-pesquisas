@@ -12,7 +12,9 @@ O Tailscale disponibiliza um script oficial que detecta automaticamente a distri
 
 Execute:
 
+```
 curl -fsSL https://tailscale.com/install.sh | sh
+```
 
 ---
 
