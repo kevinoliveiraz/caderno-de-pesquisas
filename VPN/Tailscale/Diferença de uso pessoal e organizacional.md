@@ -61,10 +61,10 @@ Nesse modelo, o Tailscale é usado como infraestrutura de rede corporativa.
 | Aspecto | Uso pessoal | Organização |
 |----------|------------|-------------|
 | Identidade | Única | Múltiplas |
-| Controle | Simples | Baseado em políticas |
+| Controle | Simples | Baseado em políticas e autorizações |
 | Escala | Pequena | Grande |
 | Gestão | Individual | Centralizada por equipe |
-| Objetivo | Acesso pessoal | Infraestrutura corporativa |
+| Objetivo | Acesso pessoal | Infraestrutura corporativa segura |
 
 ---
 
