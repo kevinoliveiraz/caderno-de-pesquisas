@@ -19,13 +19,13 @@ Os conteúdos atuais estão em **Tecnologia**:
 | [Inteligência artificial](tecnologia/inteligencia-artificial/README.md) | Fundamentos, possibilidades, limites e aplicação da inteligência artificial. |
 | [Mobile](tecnologia/mobile/README.md) | Dispositivos móveis, componentes e experimentos com Android e Termux. |
 | [Docker](tecnologia/docker/README.md) | Experimentos e tutoriais de serviços em contêineres. |
-| [Security](tecnologia/security/README.md) | Pesquisas sobre proteção elétrica, DNS e acesso remoto seguro. |
+| [Security](tecnologia/security/README.md) | Tema reservado para futuras pesquisas e experimentos de segurança. |
 
 ## Como navegar
 
 Cada tema tem um índice com links para suas pesquisas. Sistemas de arquivos fica dentro de Computador. As notas permanecem em Markdown; imagens e outros materiais de apoio acompanham os documentos.
 
-Os índices identificam os arquivos ainda vazios como **em desenvolvimento**. Conteúdos recuperados de versões antigas estão identificados no índice de Security e no relatório de migração.
+Os índices identificam os arquivos ainda vazios como **em desenvolvimento**. Security está reservado para novos conteúdos; seu histórico de origem foi preservado.
 
 ## Pesquisas e projetos
 

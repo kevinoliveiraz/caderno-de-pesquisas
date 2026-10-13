@@ -17,9 +17,9 @@ Os dez repositórios de pesquisas selecionados por Kevin Cardoso foram reunidos 
 | [Inteligencia-Artificial-](https://github.com/kevinoliveiraz/Inteligencia-Artificial-) | `tecnologia/inteligencia-artificial/` | 4 | 6 |
 | [mobile](https://github.com/kevinoliveiraz/mobile) | `tecnologia/mobile/` | 2 | 5 |
 | [Docker](https://github.com/kevinoliveiraz/Docker) | `tecnologia/docker/` | 3 | 4 |
-| [security](https://github.com/kevinoliveiraz/security) | `tecnologia/security/` | 3 | 6 |
+| [security](https://github.com/kevinoliveiraz/security) | `tecnologia/security/` | 0 | 6 |
 
-Total: **43 documentos**, **22 imagens versionadas** e **81 commits originais** preservados.
+Total: **40 documentos**, **22 imagens versionadas** e **81 commits originais** preservados.
 
 ## Como o histórico foi preservado
 
@@ -29,15 +29,13 @@ As versões atuais dos arquivos foram colocadas nos diretórios dos temas em nov
 
 As origens auditadas tinham uma única branch, main, e nenhuma tag. Não foi usado squash nem reescrito o histórico. O [manifesto](migracao/manifesto.json) registra os commits de origem, os commits de importação, os blobs e os caminhos de cada arquivo.
 
-## Security: documentos recuperados
+## Security: seção reservada
 
-Security estava vazio em main. Como o tema foi selecionado após a auditoria, foram recuperadas as últimas versões existentes destes três documentos:
+Security estava vazio em main. Kevin orientou manter este tema reservado para novos conteúdos, por isso a versão atual tem apenas um índice de apresentação, sem restaurar os documentos excluídos.
 
-- [DNS/DPS — Dispositivo de Proteção contra Surtos.md](tecnologia/security/DNS/DPS%20%E2%80%94%20Dispositivo%20de%20Prote%C3%A7%C3%A3o%20contra%20Surtos.md) — [versão de origem](https://github.com/kevinoliveiraz/security/blob/8b7482f409fccd6bc04c0e3336e76d5bcd4e38ec/DNS/DPS%20%E2%80%94%20Dispositivo%20de%20Prote%C3%A7%C3%A3o%20contra%20Surtos.md).
-- [DNS/O que é DNS?.md](tecnologia/security/DNS/O%20que%20%C3%A9%20DNS.md) — [versão de origem](https://github.com/kevinoliveiraz/security/blob/8b7482f409fccd6bc04c0e3336e76d5bcd4e38ec/DNS/O%20que%20%C3%A9%20DNS%3F.md).
-- [DNS/Tailscale.md](tecnologia/security/DNS/Tailscale.md) — [versão de origem](https://github.com/kevinoliveiraz/security/blob/4084f4191d6271392dc185374f5c8d2f4b32d2a9/DNS/Tailscale.md).
+Os seis commits originais continuam preservados. As versões antigas das notas sobre DPS, DNS e Tailscale permanecem acessíveis no histórico, com os mesmos textos e identificadores. O manifesto registra essas versões em historical_security_documents.
 
-Esses documentos permanecem agrupados no tema Security, preservando o contexto da origem. DPS trata de proteção elétrica; DNS e Tailscale também se relacionam às pesquisas de Redes. A recuperação e as referências de origem estão identificadas sem alterar os textos.
+Uma nota antiga sobre DPS contém uma referência a um recurso do Joplin que nunca esteve versionado na origem. Ela permanece no histórico original; não há referência a esse recurso na versão atual do caderno.
 
 ## Imagens
 

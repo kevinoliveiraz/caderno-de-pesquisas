@@ -182,8 +182,9 @@
         "99dfe445138c6bf3d99f9bfbe275e361d6f833b8"
       ],
       "import_commit": "2fee7311e2e4bc2f61775052bfba9d5588cf496c",
-      "file_count": 3,
-      "url": "https://github.com/kevinoliveiraz/security"
+      "file_count": 0,
+      "url": "https://github.com/kevinoliveiraz/security",
+      "reserved_for_future_research": true
     }
   ],
   "files": [
@@ -735,45 +736,6 @@
         "https://github.com/user-attachments/assets/b1f452e6-52c0-41ca-b4b9-57419ed65a7b": "../../assets/imagens/b94c3bd293fce5f400a6.png"
       },
       "destination_blob": "fa616b05f641914e26df8b6eec82af009f396207"
-    },
-    {
-      "repo": "security",
-      "source_path": "DNS/DPS — Dispositivo de Proteção contra Surtos.md",
-      "source_ref": "8b7482f409fccd6bc04c0e3336e76d5bcd4e38ec",
-      "source_blob": "0435283cc317e7b42571e87e4f2c4f6d37448715",
-      "destination": "tecnologia/security/DNS/DPS — Dispositivo de Proteção contra Surtos.md",
-      "source_sha256": "70ab0b8ae936c6f6a61842ad0e0153041d9d210ef96065238963c6c6e9cfe312",
-      "empty": false,
-      "recovered": true,
-      "import_commit": "2fee7311e2e4bc2f61775052bfba9d5588cf496c",
-      "image_replacements": {},
-      "destination_blob": "0435283cc317e7b42571e87e4f2c4f6d37448715"
-    },
-    {
-      "repo": "security",
-      "source_path": "DNS/O que é DNS?.md",
-      "source_ref": "8b7482f409fccd6bc04c0e3336e76d5bcd4e38ec",
-      "source_blob": "557a0e6211a6704cfe3be938a1e8dd8120698c6c",
-      "destination": "tecnologia/security/DNS/O que é DNS.md",
-      "source_sha256": "eb705f3a69e438bbe6bc2cc56e02f774d49ec015fdd9cd3226e513fa023f0ff1",
-      "empty": false,
-      "recovered": true,
-      "import_commit": "2fee7311e2e4bc2f61775052bfba9d5588cf496c",
-      "image_replacements": {},
-      "destination_blob": "557a0e6211a6704cfe3be938a1e8dd8120698c6c"
-    },
-    {
-      "repo": "security",
-      "source_path": "DNS/Tailscale.md",
-      "source_ref": "4084f4191d6271392dc185374f5c8d2f4b32d2a9",
-      "source_blob": "9a7e9fb053d7aa64647c65b6e984f7f0a3dc5df8",
-      "destination": "tecnologia/security/DNS/Tailscale.md",
-      "source_sha256": "7e9850c66f2b02c367bd150750321ed7b664efd66f918195cfd5505c8877b9c0",
-      "empty": false,
-      "recovered": true,
-      "import_commit": "2fee7311e2e4bc2f61775052bfba9d5588cf496c",
-      "image_replacements": {},
-      "destination_blob": "9a7e9fb053d7aa64647c65b6e984f7f0a3dc5df8"
     }
   ],
   "images": [
@@ -1020,5 +982,46 @@
       ]
     }
   ],
-  "image_commit": "446241cd5ffebba7090d2362685289666286daa2"
+  "image_commit": "446241cd5ffebba7090d2362685289666286daa2",
+  "historical_security_documents": [
+    {
+      "repo": "security",
+      "source_path": "DNS/DPS — Dispositivo de Proteção contra Surtos.md",
+      "source_ref": "8b7482f409fccd6bc04c0e3336e76d5bcd4e38ec",
+      "source_blob": "0435283cc317e7b42571e87e4f2c4f6d37448715",
+      "destination": "tecnologia/security/DNS/DPS — Dispositivo de Proteção contra Surtos.md",
+      "source_sha256": "70ab0b8ae936c6f6a61842ad0e0153041d9d210ef96065238963c6c6e9cfe312",
+      "empty": false,
+      "recovered": true,
+      "import_commit": "2fee7311e2e4bc2f61775052bfba9d5588cf496c",
+      "image_replacements": {},
+      "destination_blob": "0435283cc317e7b42571e87e4f2c4f6d37448715"
+    },
+    {
+      "repo": "security",
+      "source_path": "DNS/O que é DNS?.md",
+      "source_ref": "8b7482f409fccd6bc04c0e3336e76d5bcd4e38ec",
+      "source_blob": "557a0e6211a6704cfe3be938a1e8dd8120698c6c",
+      "destination": "tecnologia/security/DNS/O que é DNS.md",
+      "source_sha256": "eb705f3a69e438bbe6bc2cc56e02f774d49ec015fdd9cd3226e513fa023f0ff1",
+      "empty": false,
+      "recovered": true,
+      "import_commit": "2fee7311e2e4bc2f61775052bfba9d5588cf496c",
+      "image_replacements": {},
+      "destination_blob": "557a0e6211a6704cfe3be938a1e8dd8120698c6c"
+    },
+    {
+      "repo": "security",
+      "source_path": "DNS/Tailscale.md",
+      "source_ref": "4084f4191d6271392dc185374f5c8d2f4b32d2a9",
+      "source_blob": "9a7e9fb053d7aa64647c65b6e984f7f0a3dc5df8",
+      "destination": "tecnologia/security/DNS/Tailscale.md",
+      "source_sha256": "7e9850c66f2b02c367bd150750321ed7b664efd66f918195cfd5505c8877b9c0",
+      "empty": false,
+      "recovered": true,
+      "import_commit": "2fee7311e2e4bc2f61775052bfba9d5588cf496c",
+      "image_replacements": {},
+      "destination_blob": "9a7e9fb053d7aa64647c65b6e984f7f0a3dc5df8"
+    }
+  ]
 }
