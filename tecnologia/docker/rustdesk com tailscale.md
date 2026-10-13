@@ -166,13 +166,13 @@ Após iniciar o servidor RustDesk, é necessário configurar cada dispositivo cl
 
 No RustDesk, clique nos 3 pontos
 
-<img width="1717" height="916" alt="1" src="https://github.com/user-attachments/assets/4be760a9-7de7-403a-9833-cce22f20b0e9" />
+<img width="1717" height="916" alt="1" src="../../assets/imagens/c6fd5a898677dcbab5f2.png" />
 
 **Configurações **
 
 Em seguida, selecione rede e clique em **Servidor ID/Relay**.
 
-> <img width="1717" height="916" alt="2" src="https://github.com/user-attachments/assets/25f9a392-2eec-4752-8dd0-282a26eef0b5" />
+> <img width="1717" height="916" alt="2" src="../../assets/imagens/c2e8508ca86ee44212b5.png" />
 
 
 ---
@@ -190,7 +190,7 @@ Na janela **Servidor ID/Relay**, preencha os campos da seguinte forma:
 
 Depois clique em **OK**.
 
-<img width="1717" height="916" alt="3" src="https://github.com/user-attachments/assets/b1f452e6-52c0-41ca-b4b9-57419ed65a7b" />
+<img width="1717" height="916" alt="3" src="../../assets/imagens/b94c3bd293fce5f400a6.png" />
 
 
 ---

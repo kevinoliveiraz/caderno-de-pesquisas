@@ -64,6 +64,6 @@ Cada categoria define:
 - Limite real geralmente é o **roteador (1Gbps)**  
 - Comprar Cat8 pra usar em internet de 300MB = desperdício
 
-- <img width="1536" height="1024" alt="ChatGPT Image 8 de jun  de 2026, 21_02_16" src="https://github.com/user-attachments/assets/cb122c25-923b-4179-b727-ff88dc2fe17f" />
+- <img width="1536" height="1024" alt="ChatGPT Image 8 de jun  de 2026, 21_02_16" src="../../../assets/imagens/ba20826e7277136b7b71.png" />
 
 

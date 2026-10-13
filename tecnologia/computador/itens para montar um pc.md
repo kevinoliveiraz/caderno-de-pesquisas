@@ -18,7 +18,7 @@ Esta nota apresenta  os principais componentes que formam um computador, suas fu
 - Dispositivos USB (pendrive)
 - Identificação dos componentes presentes no seu computador
 
-  <img width="736" height="1104" alt="20260329_224833" src="https://github.com/user-attachments/assets/8d77b5b7-bb84-435a-bacf-e89e3855c0f0" />
+  <img width="736" height="1104" alt="20260329_224833" src="../../assets/imagens/a62e03753303b35e700a.png" />
 
 
 # Componentes de um Computador

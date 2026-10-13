@@ -1,14 +1,14 @@
 # Crie uma conta
-<img width="1600" height="900" alt="Captura de tela de 2026-07-28 16-33-50" src="https://github.com/user-attachments/assets/a8436e78-496c-4ad2-80bd-21d757f9685d" />
+<img width="1600" height="900" alt="Captura de tela de 2026-07-28 16-33-50" src="../../../assets/imagens/eef504de95d2a42da117.png" />
 
 ## Crie uma organização
-<img width="858" height="608" alt="Captura de tela de 2026-07-28 16-35-43" src="https://github.com/user-attachments/assets/559e48e8-dfac-4215-b389-2187d329c44a" />
+<img width="858" height="608" alt="Captura de tela de 2026-07-28 16-35-43" src="../../../assets/imagens/b79f9e7125738ff545eb.png" />
 
 ### Para que serve cada tipo?
-<img width="428" height="193" alt="Captura de tela de 2026-07-28 16-36-46" src="https://github.com/user-attachments/assets/204c5b21-b39e-4f59-973c-a4d72024b0e3" />
+<img width="428" height="193" alt="Captura de tela de 2026-07-28 16-36-46" src="../../../assets/imagens/0d253a5fb50b50c330a9.png" />
 
 ### Sidebar
-<img width="655" height="613" alt="Captura de tela de 2026-07-28 16-51-45" src="https://github.com/user-attachments/assets/1ae6ffc6-dde3-42ed-9eb6-7f6059a1c8a5" />
+<img width="655" height="613" alt="Captura de tela de 2026-07-28 16-51-45" src="../../../assets/imagens/7e9ef63b9070cbae25d3.png" />
 
 ---
 
