@@ -55,7 +55,6 @@ Foram removidos caracteres incompatíveis com Windows, corrigida uma extensão c
 | `Redes/VPN/Tailscale/Instalação/Windows. md` | `tecnologia/redes/VPN/Tailscale/Instalação/Windows.md` |
 | `Back-end/Supabase/O que é?.md` | `tecnologia/back-end/Supabase/O que é.md` |
 | `mobile/Como é uma câmera por dentro?.md` | `tecnologia/mobile/Como é uma câmera por dentro.md` |
-| `security/DNS/O que é DNS?.md` | `tecnologia/security/DNS/O que é DNS.md` |
 
 Os commits antigos continuam com os nomes originais. Por isso, abrir algumas versões históricas diretamente no Windows pode falhar por causa de nomes com ? ou :. A versão atual usa caminhos compatíveis.
 
